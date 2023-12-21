@@ -5,6 +5,9 @@
 
 Dedicated organization for the development of the ESEIHub platform.
 
+> [!NOTE]
+> If you want to access the contents of the organization for reference or development purposes, feel free to contact the [owner of the organization](https://github.com/erlete/) for further information
+
 ## Motivation
 
 This organization rises along with the intention of enhancing the education experience for the [Computer Engineering degree from the University of Vigo](https://esei.uvigo.es/). This results in the development of several tools, such as bots, event fetchers and web scrapers that aim to provide quick, realiable and easy-to-access information at hand.
